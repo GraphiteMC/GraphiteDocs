@@ -21,7 +21,7 @@ ___
     </dependency>
 ```
 
-  * #### Gradle
+* ##### Gradle
 ```kotlin
 repositories {
     maven("https://repo.graphitemc.org/releases")
@@ -35,7 +35,12 @@ dependencies {
 
 
 #### Repository (For dev-bundle)
-##### Gradle
+* ##### Gradle
+```kotlin
+repositories {
+    maven("https://repo.graphitemc.org/releases")
+}
+```
 ```kotlin
 dependencies {
     paperweight.devBundle("org.graphitemc.graphite", "1.20.1-R0.1-SNAPSHOT")

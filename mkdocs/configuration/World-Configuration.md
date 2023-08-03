@@ -36,6 +36,6 @@ ___
 ___
 ### mob-settings
 * #### iron-golem-options
-    * #### attack-creepers
+    * ##### attack-creepers
         - **default**: false
         - **description**: Allow iron golems to attack Creepers. Very overpowered...
