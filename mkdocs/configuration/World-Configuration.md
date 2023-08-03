@@ -34,7 +34,7 @@ ___
                 - **default**: true
                 - **description**: Allow raw iron blocks to be smelted in a furnace
 ___
-### mob-settings
+### mob-options
 * #### iron-golem-options
     * ##### attack-creepers
         - **default**: false

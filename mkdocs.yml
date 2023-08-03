@@ -15,3 +15,4 @@ nav:
   - Configuration:
       - Global Configuration: "configuration/Global-Configuration.md"
       - World Configuration: "configuration/World-Configuration.md"
+      - Choices Explained: "configuration/Choices-Explained.md"
