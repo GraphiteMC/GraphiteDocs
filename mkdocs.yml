@@ -1,0 +1,17 @@
+site_name: GraphiteMC Documentation
+site_url: https://docs.graphitemc.org
+docs_dir: mkdocs
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+nav:
+  - Home: "index.md"
+  - Getting Started:
+      - Prerequisites: "getting-started/Prerequisites.md"
+      - Installation: "getting-started/Installation.md"
+  - Configuration:
+      - Global Configuration: "configuration/Global-Configuration.md"
+      - World Configuration: "configuration/World-Configuration.md"
