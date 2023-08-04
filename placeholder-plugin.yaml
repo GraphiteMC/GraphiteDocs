@@ -1,0 +1,4 @@
+placeholders:
+  MC_VERSION: 1.20.1-R0.1-SNAPSHOT
+settings:
+  auto_placeholder_tables: false

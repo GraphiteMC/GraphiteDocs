@@ -16,7 +16,7 @@ ___
     <dependency>
         <groupId>org.graphitemc.graphite</groupId>
         <artifactId>graphite-api</artifactId>
-        <version>1.20.1-R0.1-SNAPSHOT</version>
+        <version>xMC_VERSIONx</version>
         <scope>provided</scope>
     </dependency>
 ```
@@ -29,7 +29,7 @@ repositories {
 ```
 ```kotlin
 dependencies {
-    compilyOnly("org.graphitemc.graphite:graphite-api:1.20.1-R0.1-SNAPSHOT")
+    compilyOnly("org.graphitemc.graphite:graphite-api:xMC_VERSIONx")
 }
 ```
 
@@ -43,6 +43,6 @@ repositories {
 ```
 ```kotlin
 dependencies {
-    paperweight.devBundle("org.graphitemc.graphite", "1.20.1-R0.1-SNAPSHOT")
+    paperweight.devBundle("org.graphitemc.graphite", "xMC_VERSIONx")
 }
 ```

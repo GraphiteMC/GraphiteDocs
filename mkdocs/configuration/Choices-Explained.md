@@ -1,5 +1,5 @@
-# Choices Explain
-Why are some configuration options set to what they are?
+# Choices Explained
+Why are some configuration options set to what they are? Hopefully that is answered here, if not please contact a member of the team for further help.
 ___
 ## Global Configuration
 * ### server-reloading

@@ -4,10 +4,10 @@ ___
 * **Do not change this for any reason! Graphite uses this internally to help keep your config updated**
 ___
 ### misc
-* #### fix-m-c31819
+* ##### fix-m-c31819
     - **default**: true
     - **description**: Fix Minecraft bug [MC-31819](https://bugs.mojang.com/browse/MC-31819)
-* #### fix-m-c93018
+* ##### fix-m-c93018
     - **default**: true
     - **description**: Fix Minecraft bug [MC-93018](https://bugs.mojang.com/browse/MC-93018)
 * #### recipes
