@@ -34,7 +34,11 @@ ___
                 - **default**: true
                 - **description**: Allow raw iron blocks to be smelted in a furnace
 ___
-### mob-options
+### mob-settings
+* #### cat-options
+    * ##### allow-toby-cat
+        - **default**: true
+        - **description**: A tribute to Toby (No gameplay/performance impact)
 * #### iron-golem-options
     * ##### attack-creepers
         - **default**: false

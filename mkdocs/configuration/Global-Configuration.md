@@ -54,4 +54,11 @@ ___
         - **default**: "&lt;click:open_url:'https://github.com/GraphiteMC/Graphite/wiki'><red>Reload
         commands have been disabled by Graphite. Please check the wiki for more information!&lt;/click>"
         - **description**: Message sent when a reload command is attempted to run
+* #### server-security
+    * ##### disable-chat-reports
+        - **default**: false
+        - **description**: Disable players from reporting chat messages to Mojang/Microsoft
+    * ##### disable-root-running
+        - **default**: true
+        - **description**: Disable the server when it is ran as an administrative/root user
 ___
